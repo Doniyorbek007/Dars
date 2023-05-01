@@ -142,6 +142,6 @@
 
 # #-----------------------------------------------------------------
 
-son = input("Sonni kiriting: ")
+# son = input("Sonni kiriting: ")
 
-print(son[::-1])
+# print(son[::-1])
