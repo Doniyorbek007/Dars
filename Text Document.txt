@@ -10,8 +10,9 @@ Dasturlash tillarida ma'lumot turlarini saqlash:
     
     Qaysi dasturlash tillarida ma'lumot turlarini saqlovchi savatchalar ko'p bo'lsa o'sha dasturlash tili mukammal va kuchli bo'ladi.
 
-    Pythonda 4ta ma'lumot saqlovchi savatchalar mavjud.
+    Pythonda 4ta ma'lumot saqlovchi savatchalar mavjud:
         1. "List" 
         2. "Tuple"
         3. "Dictionary"
         4. "Set"
+    
