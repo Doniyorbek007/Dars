@@ -15,3 +15,5 @@ Dasturlash tillarida ma'lumot turlarini saqlash:
         2. "Tuple"
         3. "Dictionary"
         4. "Set"
+    
+    Tuple o'zgatirib bo'lmaydigan list
