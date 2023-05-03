@@ -1,0 +1,17 @@
+Dasturlash tillarida ma'lumot turlarini saqlash:
+    
+    Barcha dasturlash tiilarida ma'lumot turlarini saqlaydigan idishlar ya'ni savatlar mavjud.
+
+    Ularning ba'zilarining nomlari barcha dasturlash tillarida bir xil bo'ladi. 
+
+    Ayrim dasturlash tillarida mavjud bo'lgan savatchalar boshqa dasturlash tillarida yoq.
+    
+    Lekin ularning muqobili mavjud.
+    
+    Qaysi dasturlash tillarida ma'lumot turlarini saqlovchi savatchalar ko'p bo'lsa o'sha dasturlash tili mukammal va kuchli bo'ladi.
+
+    Pythonda 4ta ma'lumot saqlovchi savatchalar mavjud.
+        1. "List" 
+        2. "Tuple"
+        3. "Dictionary"
+        4. "Set"

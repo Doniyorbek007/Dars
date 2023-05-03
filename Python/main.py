@@ -29,7 +29,7 @@
 # print('a' != 'a' and 5 == 5 or (2 ** 2) == 8 and (8 / 2 * 5) or 10)
 # ---------------------------------------------------
 
-FILE_SIZE_LIMIT = 2000
+# FILE_SIZE_LIMIT = 2000
 
-print(FILE_SIZE_LIMIT)
+# print(FILE_SIZE_LIMIT)
 # ---------------------------------------------------

@@ -34,7 +34,7 @@
 
 # #-----------------------------------------------------
 
-# Devorni bo'yi = 4m, eni = 6  2ta deraza bo'yi = 2m, eni = 1.5m  1m 25000
+# # Devorni bo'yi = 4m, eni = 6  2ta deraza bo'yi = 2m, eni = 1.5m  1m 25000
 
 # def devor_yuzi(a = int(input("Devor bo'yi: ")), b = int(input("Devor eni: ")), c = int(input("Deraza bo'yi: ")), d = float(input("Deraza eni: ")), e = int(input("Derazalar soni: "))):
 #     S = (a * b)-((c * d)* e)
@@ -47,12 +47,12 @@
 
 # #-----------------------------------------------------
 
-# def devor_yuzi(devor_eni, devor_uzunligi, oyna_eni, oyna_uzunligi, oynalar_soni):
-#     devor_yuzi_oynasi_bilan = devor_eni * devor_uzunligi
-#     oynalar_yuzi = (oyna_eni * oyna_uzunligi) * oynalar_soni
-#     devor_yuzi_oynalarsiz = (devor_yuzi_oynasi_bilan - oynalar_yuzi)
+#  def devor_yuzi(devor_eni, devor_uzunligi, oyna_eni, oyna_uzunligi, oynalar_soni):
+#         devor_yuzi_oynasi_bilan = devor_eni * devor_uzunligi
+#         oynalar_yuzi = (oyna_eni * oyna_uzunligi) * oynalar_soni
+#         devor_yuzi_oynalarsiz = (devor_yuzi_oynasi_bilan - oynalar_yuzi)
 
-#     return devor_yuzi_oynalarsiz
+#         return devor_yuzi_oynalarsiz
 
 # def narxi(narxi, devor_yuzi):
 #     aboy_narxi = narxi * devor_yuzi
