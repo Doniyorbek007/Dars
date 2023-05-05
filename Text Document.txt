@@ -17,3 +17,6 @@ Dasturlash tillarida ma'lumot turlarini saqlash:
         4. "Set"
     
     Tuple o'zgatirib bo'lmaydigan list
+
+
+    
