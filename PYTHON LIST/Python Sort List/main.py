@@ -109,3 +109,23 @@
 
 # # ----------------------------------------------------------
 
+# my_list = [1,2,3,4,5,6,7]
+
+# new_list = []
+
+# for i in my_list:
+#     new_list.append(i*2)
+
+# print(new_list)
+
+# # ----------------------------------------------------------
+
+my_list = [1,2,3,4,5,6,7]
+
+new_list = []
+
+for i in my_list:
+    if i > 5:
+        new_list.append(i)
+
+print(new_list)
