@@ -40,3 +40,26 @@
 
 # #--------------------------------------------------
 
+# from functools import reduce
+
+# def sum(a, b):
+#     print(f"a={a}, b={b}, {a} * {b} ={a*b}")
+#     return a * b
+
+# scores = [75, 65, 80, 95, 50]
+# total = reduce(sum, scores)
+# print(total)
+# #--------------------------------------------------
+# print(reduce(lambda a, b: a * b, scores))
+
+# #--------------------------------------------------
+
+# numbers = [1, 2, 3, 4, 5]
+# squares = [number**2 for number in numbers]
+
+# print(squares)  
+# #--------------------------------------------------
+# print(list(number**2 for number in numbers))
+
+# #--------------------------------------------------
+
