@@ -65,9 +65,37 @@
 
 # #------------------------------
 
-s1 = {'Python', 'Java'}
-s2 = {'C#', 'Java'}
+# s1 = {'Python', 'Java'}
+# s2 = {'C#', 'Java'}
 
-s = s1.union(s2)
+# s = s1.union(s2)
 
-print(s)
+# print(s)
+
+# #------------------------------
+
+# s1 = {'Python', 'Java'}
+# s2 = {'C#', 'Java'}
+
+# s = s1.union(s2)
+
+# #------------------------------
+
+# s1 = {'Python', 'Java'}
+# s2 = {'C#', 'Java'}
+
+# s = s1 | s2
+
+# print(s)
+
+# #------------------------------
+
+# numbers = {1, 2, 3}
+# scores = [2, 3, 4]
+
+# numbers = numbers & scores
+
+# print(numbers) # TypeError: unsupported operand type(s) for &: 'set' and 'list'
+
+# #------------------------------
+
