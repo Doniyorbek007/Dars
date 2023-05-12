@@ -7,9 +7,9 @@
 
 #-----------------------------------------
 
-from app import salomlash_kim_bilandir as salom
+# from app import salomlash_kim_bilandir as salom
 
-print(salom("Sardor"))
+# print(salom("Sardor"))
 
 #-----------------------------------------
 
