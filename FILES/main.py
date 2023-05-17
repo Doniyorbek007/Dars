@@ -52,18 +52,20 @@
 
 #---------------------------------------
 
-words_count = int(input("Words count: "))
+# words_count = int(input("Words count: "))
 
-count = 1 
-while count <= words_count :
-    word = input(f"{count} Word: ")
-    with open("./app.txt", "at") as f:
-        f.write(word)
-        f.write("\n")
+# count = 1 
+# while count <= words_count :
+#     word = input(f"{count} Word: ")
+#     with open("./app.txt", "at") as f:
+#         f.write(word)
+#         f.write("\n")
 
-    count += 1
+#     count += 1
     
-with open("./app.txt") as f:
-    result = f.read()
-    print(result)
-        
+# with open("./app.txt") as f:
+#     result = f.read()
+#     print(result)
+
+#---------------------------------------
+
