@@ -10,15 +10,23 @@ Dasturlash tillarida ma'lumot turlarini saqlash:
     
     Qaysi dasturlash tillarida ma'lumot turlarini saqlovchi savatchalar ko'p bo'lsa o'sha dasturlash tili mukammal va kuchli bo'ladi.
 
-    Pythonda 4ta ma'lumot saqlovchi savatchalar mavjud:
-        1. "List" 
-        2. "Tuple"
-        3. "Dictionary"
-        4. "Set"
+Pythonda 4ta ma'lumot saqlovchi savatchalar mavjud:
+    1. "List" 
+    2. "Tuple"
+    3. "Dictionary"
+    4. "Set"
     
-    Tuple o'zgatirib bo'lmaydigan list
+Tuple o'zgatirib bo'lmaydigan list
 
-https://themes10.win/
+---------------------------------------------------------------------------------------------------------------------
 
- VGGTbJCkVZbCPNDnouVYHgZwLu32
+                                Python OOP (Object Oriented Principles/Object Oriented Programming)
     
+    Hozigi kundagi eng mashhur dasturlash tillari OOP qoidalari asosida ishlaydi.
+    Misol uchun: C++, JAVA, C#, PYTHON, JAVASCRIPT.
+    Dunyodagi eng mashhur OOP prinsiplari asosida ishlaydigan eng mashhur dasturlash tillari JAVA va C#
+
+    Nimaga OOP arxitekturasi muhim?
+        
+    Dasturchi class yaraitshi uchun abstrak (mavhum) narslar haqida o'ylay boshlashi kerak.
+     
