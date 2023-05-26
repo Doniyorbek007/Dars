@@ -15,10 +15,22 @@ class Calc:
         return self.a * self.b
 
     def division(self):
-        return self.a / self.b
+        if self.b == 0:
+            return "Error"
+        else:
+            return self.a / self.b
 
     def residual_division(self):
-        return self.a % self.b
+        if self.b == 0:
+            return "Error"
+        else:    
+            return self.a % self.b
     
     def darajaga_kutarish(self):
         return self.a ** self.b
+
+    def ildiz_olish(self):
+        if self.b == 0:
+            return "Error"
+        else:
+            return self.a**(1/self.b)

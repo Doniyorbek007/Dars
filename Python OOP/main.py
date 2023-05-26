@@ -8,3 +8,4 @@ if __name__ == '__main__':
     print(f"A / B = {my_calc.division()}")
     print(f"A % B = {my_calc.residual_division()}")
     print(f"A ** B = {my_calc.darajaga_kutarish()}")
+    print(f"A ** (1 / B) = {my_calc.ildiz_olish()}")
