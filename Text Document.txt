@@ -30,3 +30,19 @@ Tuple o'zgatirib bo'lmaydigan list
         
     Dasturchi class yaraitshi uchun abstrak (mavhum) narslar haqida o'ylay boshlashi kerak.
      
+
+    Pip (Package install for Python)
+
+    Barcha dasturlash tiilarida qo'shimcha paketlarni o'rnatib beradigan dastur mavjud.
+    misol uchun Python (pip) JAVASCRIPT (npm)
+
+    Kompyuterimizdagi
+    Paketlar ustida turli xil metodlar bajariladi.
+    Ular:
+        Paket o'rnatiladi 
+        Paket yangilanadi 
+        Paket o'chiriladi
+
+    Pip yordamida paketlarni tekshirish uchun "pip list" buyrug'i ishlatiladi.
+
+    Yuqorida aytilgan fikrlar 3-tomon paketlarga tegishli.
