@@ -40,9 +40,11 @@ Tuple o'zgatirib bo'lmaydigan list
     Paketlar ustida turli xil metodlar bajariladi.
     Ular:
         Paket o'rnatiladi 
-        Paket yangilanadi 
-        Paket o'chiriladi
+        Paket yangilanadi (pip install --upgrade '...')
+        Paket o'chiriladi (pip uninstall '...')
 
     Pip yordamida paketlarni tekshirish uchun "pip list" buyrug'i ishlatiladi.
 
     Yuqorida aytilgan fikrlar 3-tomon paketlarga tegishli.
+
+    O'rnatilgan Virtual muhitni versiyasini tekshirish (python -m virtualenv --version).
