@@ -1,13 +1,7 @@
-from telegram import Update
-from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
+import telegram
 
+print(telegram.__bot_api_version__) # 6.7
+print(telegram.__bot_api_version_info__) # 6.7
 
-async def hello(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
-    await update.message.reply_text(f'Hello {update.effective_user.first_name}')
-
-
-app = ApplicationBuilder().token("YOUR TOKEN HERE").build()
-
-app.add_handler(CommandHandler("hello", hello))
-
-app.run_polling()
+print(telegram.__version__) # 20.3
+print(telegram.__version_info__) # 20.3
