@@ -1,22 +1,22 @@
-Dasturlash tillarida ma'lumot turlarini saqlash:
+    Dasturlash tillarida ma'lumot turlarini saqlash:
     
-    Barcha dasturlash tiilarida ma'lumot turlarini saqlaydigan idishlar ya'ni savatlar mavjud.
+        Barcha dasturlash tiilarida ma'lumot turlarini saqlaydigan idishlar ya'ni savatlar mavjud.
 
-    Ularning ba'zilarining nomlari barcha dasturlash tillarida bir xil bo'ladi. 
+        Ularning ba'zilarining nomlari barcha dasturlash tillarida bir xil bo'ladi. 
 
-    Ayrim dasturlash tillarida mavjud bo'lgan savatchalar boshqa dasturlash tillarida yoq.
+        Ayrim dasturlash tillarida mavjud bo'lgan savatchalar boshqa dasturlash tillarida yoq.
     
-    Lekin ularning muqobili mavjud.
+        Lekin ularning muqobili mavjud.
     
-    Qaysi dasturlash tillarida ma'lumot turlarini saqlovchi savatchalar ko'p bo'lsa o'sha dasturlash tili mukammal va kuchli bo'ladi.
+        Qaysi dasturlash tillarida ma'lumot turlarini saqlovchi savatchalar ko'p bo'lsa o'sha dasturlash tili mukammal va kuchli bo'ladi.
 
-Pythonda 4ta ma'lumot saqlovchi savatchalar mavjud:
-    1. "List" 
-    2. "Tuple"
-    3. "Dictionary"
-    4. "Set"
+    Pythonda 4ta ma'lumot saqlovchi savatchalar mavjud:
+        1. "List" 
+        2. "Tuple"
+        3. "Dictionary"
+        4. "Set"
     
-Tuple o'zgatirib bo'lmaydigan list
+    Tuple o'zgatirib bo'lmaydigan list
 
 ---------------------------------------------------------------------------------------------
 
@@ -52,7 +52,24 @@ Tuple o'zgatirib bo'lmaydigan list
 ---------------------------------------------------------------------------------------------
 
     Hozigi kunda barcha dasturlarni 2 qismga ajratsa bo'ladi
-        1 - Mijoz (Kiliyent) tomon 
+        1 - Mijoz (Kliyent) tomon 
         2 - Server tomon 
     Frontend Backend
+
+    API (Application Programming Interfaces)
+        API 2 ta tamoyil ustida qurilgan.
+        Bular so'rov va javob.
+
+    Biz ishlatayotgan internet protokollar ustiga qurilgan.
     
+    Barcha dasturlash tillari API bilan ishlay oladi.
+
+    Bizlar internet bilan ya'ni API bilan muloqot qilish uchun dasturlash tili kerak.
+
+    HTTP (Hyper Text Transport Protocol)
+
+    HTTP metodlari:
+        GET ---------- ma'lumotni olib beradi
+        POST ---------- ma'lumotni yaratadi
+        PUT ---------- mavjud bo'lgan ma'lumotni yangilaydi
+        PATCH ---------- mavjud bo'lgan ma'lumotni ayrim bir qismini yangilaydi
