@@ -48,3 +48,11 @@ Tuple o'zgatirib bo'lmaydigan list
     Yuqorida aytilgan fikrlar 3-tomon paketlarga tegishli.
 
     O'rnatilgan Virtual muhitni versiyasini tekshirish (python -m virtualenv --version).
+
+---------------------------------------------------------------------------------------------
+
+    Hozigi kunda barcha dasturlarni 2 qismga ajratsa bo'ladi
+        1 - Mijoz (Kiliyent) tomon 
+        2 - Server tomon 
+    Frontend Backend
+    
