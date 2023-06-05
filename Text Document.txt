@@ -73,3 +73,6 @@
         POST ---------- ma'lumotni yaratadi
         PUT ---------- mavjud bo'lgan ma'lumotni yangilaydi
         PATCH ---------- mavjud bo'lgan ma'lumotni ayrim bir qismini yangilaydi
+---------------------------------------------------------------------------------------------
+
+    JSON (JavaScript Object Notation)
