@@ -59,14 +59,14 @@ import requests
 r = requests.get("https://jsonplaceholder.typicode.com/users")
 
 data = r.json()
-# print(data[0]["name"])
 
-web_site = int(input("Veb saytni kiriting: "))
+web_site = input("Vebsayt nomini kiriting: ")
+# Misol uchun: hildegard.org
 
 for name in data[0:11]:
-    if name['company']:
+    if name['website'] == web_site:
         
         print(name["name"])
-
-    with open('users_names.txt','a') as f:
-        f.write(f"{name['name']}\n")
+        
+else:
+    print(f"{web_site} bu vebsaytning egasi topilmadi!\nIltimos qayta urinib ko'ring!")
