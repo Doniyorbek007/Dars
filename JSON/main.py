@@ -56,12 +56,33 @@ import requests
 
 #-----------------------------------------------------------
 
+# r = requests.get("https://jsonplaceholder.typicode.com/users")
+
+# data = r.json()
+
+# web_site = input("Vebsayt nomini kiriting: ")
+# # Misol uchun: hildegard.org
+
+# for name in data[0:11]:
+    
+#     if name['website'] == web_site:
+        
+#         print(name["name"])
+#     else:
+#         print("Dasturda xatolik bor!\nIltimos qayta urinib ko'ring!")
+#     # try:
+#     #     name['website'] == web_site
+#     #     print(name["name"])
+#     # except:
+#     #     print("Dasturda xatolik bor!\nIltimos qayta urinib ko'ring!")
+
+#-----------------------------------------------------------
+
 r = requests.get("https://jsonplaceholder.typicode.com/users")
 
 data = r.json()
 
 web_site = input("Vebsayt nomini kiriting: ")
-# Misol uchun: hildegard.org
 
 for name in data[0:11]:
     if name['website'] == web_site:
@@ -69,4 +90,4 @@ for name in data[0:11]:
         print(name["name"])
         
 else:
-    print(f"{web_site} bu vebsaytning egasi topilmadi!\nIltimos qayta urinib ko'ring!")
+    print("Dasturda xatolik bor!\nIltimos qayta urinib ko'ring!")
