@@ -78,4 +78,5 @@
     JSON (JavaScript Object Notation)
     dump dumps load loads
     
-    
+---------------------------------------------------------------------------------------------
+     SQL (Structured Query Language) haqida 
